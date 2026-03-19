@@ -1,0 +1,23 @@
+Assignment Name: Spam Classifier Thinking
+
+Features:
+- Message text
+- Keywords like free, win, offer
+- Sender address
+- Number of links
+- Message length
+- Special characters
+- Repeated words
+
+Data Needed:
+- Spam message dataset
+- Normal message dataset
+- Labeled data (spam / not spam)
+- Large amount of text data
+
+Possible Mistakes:
+- Normal message detected as spam
+- Spam detected as normal
+- New spam words not recognized
+- Small dataset gives wrong results
+- Different languages may confuse model
